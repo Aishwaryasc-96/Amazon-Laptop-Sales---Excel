@@ -1,9 +1,6 @@
 
 # Amazon Laptop Sales
 
-A brief description of what this project does and who it's for
-
-
 ## Project Overview
 This project analyzes Amazon laptop sales data to uncover insights into brand performance, RAM distribution, pricing trends, and demand patterns. An interactive Excel dashboard was built using pivot tables, charts, and slicers to support inventory planning and sales strategy.
 ## Tools & Technologies
