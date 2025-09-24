@@ -24,7 +24,8 @@ This project analyzes Amazon laptop sales data to uncover insights into brand pe
 
 •	Drill-down analysis for quick decision-making.
 
-
+## Dashboard Preview
+ [Click here to view the Dashboard](https://github.com/Aishwaryasc-96/Amazon-Laptop-Sales---Excel/blob/main/Amazon_Laptop_Sales_screenshot.png)
 
 ## Insights
 •	Dell captured 54% of total sales → strongest performer.
